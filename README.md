@@ -87,6 +87,7 @@
     - **`File > Settings`** (**Windows and Linux**)
 
     - **`Android Studio > Preferences`** (**Mac**)
+    - **`Android Studio > Settings`** (**MacOS above 14**)
 
   - Then navigate to,
   
