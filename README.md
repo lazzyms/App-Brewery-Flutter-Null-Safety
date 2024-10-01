@@ -93,6 +93,8 @@
   
     **`Appearance & Behavior > System Settings > Android SDK`**
 
+    **`Languages & Frameworks > Android SDK`** (Latest version Android studio koala feature drop)
+
   - Select the **`SDK Tools` Tab**
 
   - Select **`Android SDK Command Line Tools`** and click **`Apply`**
